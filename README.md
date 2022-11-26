@@ -1,3 +1,5 @@
+#### Installation and setup,
+
 JFrog Artifactory: https://www.jfrog.com/confluence/display/JFROG/Installing+Artifactory
 
 Artifactory OSS : https://jfrog.com/open-source/?_gl=1*d6oq6c*_ga*NjM2ODk4MDI0LjE2Njc5MjEzMDI.*_ga_SQ1NR9VTFJ*MTY2NzkyMTMwMi4xLjAuMTY2NzkyMTMwMi42MC4wLjA.
@@ -23,6 +25,8 @@ https://www.jfrog.com/confluence/display/JFROG/Installing+Artifactory#Installing
 Change the default admin password . The default user will have the following credentials predefined in the system:
 User: admin, Password: password
 
-Changed to,
+#### Changed to,
+
 ID : admin
+
 Password : 2*hIskE3aLnh
